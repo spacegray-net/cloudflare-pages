@@ -31,30 +31,9 @@
     text-indent: 0px;
     text-transform: none;
 }
-.text_heading_sub_1 {
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: bold;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 6px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .text_body {
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
