@@ -43,7 +43,7 @@
     text-transform: none;
 }
 .text_body {
-    color: rgb(94, 94, 94);
+    /*color: rgb(94, 94, 94);*/
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
@@ -87,11 +87,13 @@ a.class1:visited {
 }
 @media (prefers-color-scheme: dark) {
     body {
-      background: #000;
+      background: rgb(0, 0, 0);
+      color: rgb(160, 160, 160);
     }
   }
 @media (prefers-color-scheme: light) {
     body {
-      background: #fff;
+      background: rgb(255, 255, 255);
+      color: rgb(94, 94, 94);
     }
   }
