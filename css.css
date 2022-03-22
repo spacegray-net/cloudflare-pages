@@ -1,13 +1,13 @@
-@media (prefers-color-scheme: dark) {
-    body {
-      background: rgb(0, 0, 0);
-      color: rgb(219, 219, 219);
-    }
-  }
 @media (prefers-color-scheme: light) {
     body {
       background: rgb(255, 255, 255);
       color: rgb(94, 94, 94);
+    }
+  }
+@media (prefers-color-scheme: dark) {
+    body {
+      background: rgb(0, 0, 0);
+      color: rgb(200, 200, 200);
     }
   }
 .text_heading_title {
