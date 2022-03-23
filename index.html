@@ -17,25 +17,24 @@
             body {
                 background: rgb(255, 255, 255);
                 color: rgb(94, 94, 94);
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
             }
         }
         @media (prefers-color-scheme: dark) {
             body {
                 background: rgb(0, 0, 0);
                 color: rgb(200, 200, 200  );
-                position: relative;
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
             }
-        }
-        .text_body {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
         }
     </style>
 </head>
 
 <body>
-    <div class="text_body">
         <p>
             Hello.
         </p>
@@ -47,7 +46,6 @@
             Alas, there is no further information, except for this text.<br>
             Thank you and have a nice day!
         </p>
-    </div>
 </body>
 
 </html>
