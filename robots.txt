@@ -1,7 +1,7 @@
 # $Id$
 
 User-agent: *
-Disallow:
+#Disallow:
 
 #  Source:  https://www.videolan.org/robots.txt:
 
